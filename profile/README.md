@@ -1,4 +1,5 @@
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCdbYUUg9vYMnuWexhaSZTIA?label=Inscreva-se&style=social)](https://www.youtube.com/c/ProtocoloAlterado?sub_confirmation=1)&nbsp;&nbsp;[![Twitter](https://img.shields.io/twitter/follow/protalterado?label=Seguir%20@protalterado&style=social)](https://twitter.com/intent/follow?screen_name=protalterado)<!--&nbsp;&nbsp;[![Twitch](https://img.shields.io/twitch/status/ProtocoloAlterado?style=social)](https://www.twitch.tv/protocoloalterado)-->
+[![Discord](https://img.shields.io/discord/804185808663740416?color=%235865F2&label=Discord&logoColor=%235865F2&style=social)](https://discord.gg/eE97wuuzcf)&nbsp;&nbsp;[![Twitch do Protocolo Alterado](https://img.shields.io/twitch/status/protocoloalterado?style=social)](https://www.twitch.tv/ProtocoloAlterado)&nbsp;&nbsp;[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCdbYUUg9vYMnuWexhaSZTIA?label=Inscreva-se&style=social)](https://www.youtube.com/c/ProtocoloAlterado?sub_confirmation=1)&nbsp;&nbsp;[![Twitter](https://img.shields.io/twitter/follow/protalterado?label=Seguir%20@protalterado&style=social)](https://twitter.com/intent/follow?screen_name=protalterado)
+
 
 
 # Protocolo Alterado
